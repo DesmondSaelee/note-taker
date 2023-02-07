@@ -1,6 +1,6 @@
 # note-taker
 
-## Link https://desmondsaelee.github.io/note-taker/
+## Link https://desmond-notetaker.herokuapp.com/
 
 ## Description:
 ### This is a Note Taker application. You are able to create and save new notes as well as delete them. The front end is built from HTML and CSS. The backend is made up from Javascript. I imported and used Express to Write, Read, and Append content to files. 
